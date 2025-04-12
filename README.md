@@ -10,7 +10,7 @@
 
 ### 
 
-<h4 align="left">Me chamo Lucas Pita Santos, sou estudante de Análise e Desenvolvimento de Sistemas, sou apaixonado por desenvolvimento e tecnologia. Atualmente, estou focado em estudar Java e JavaScript. Além disso, tenho explorado o vasto mundo do desenvolvimento usando ferramentas como React e Angular.</h4>
+<h4 align="left">Me chamo Lucas Pita Santos, sou estudante de Análise e Desenvolvimento de Sistemas, sou apaixonado por desenvolvimento e tecnologia. Atualmente, estou focado em estudar Java . Além disso, tenho explorado o vasto mundo do desenvolvimento usando ferramentas como Spring e maven .</h4>
 
 ### 
 
