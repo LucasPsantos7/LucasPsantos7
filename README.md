@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Me chamo Lucas Pita Santos, Atualmente cursando Análise e desenvolvimento de sistemas, durante esse período de estudos voltei meu foco para área de dados, focado em transformar dados em insights acionáveis e apoiar decisões estratégicas.<br>A Minha principal expertise está na criação de processos para unificar bases de dados de diferentes fontes e formatos, garantindo consistência e eficiência no tratamento e análise dos dados, no desenvolvimento de dashboards interativos utilizando Power Bl e na automação de processos com VBA,SQL, Python para análise de dados e automação de máquina.</p>
+<p align="left">Me chamo Lucas Pita Santos, Atualmente cursando Análise e desenvolvimento de sistemas, durante esse período de estudos voltei meu foco para área de dados, focado em transformar dados em insights acionáveis e apoiar decisões estratégicas.<br>A Minha principal expertise está na criação de processos para unificar bases de dados de diferentes fontes e formatos, garantindo consistência e eficiência no tratamento e análise dos dados, no desenvolvimento de dashboards interativos utilizando Power Bl e na automação de processos com VBA, SQL, Python para análise de dados e automação de máquina.</p>
 
 ###
 
@@ -20,6 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Emblem.png" height="40" alt="excel logo" />
+  <img src="https://iaccountancy.org/wp-content/uploads/2020/09/power-bi-1-logo.jpg" height="40" alt= "Powebi logo" />
 </div>
 
 ###
