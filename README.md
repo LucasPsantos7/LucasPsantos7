@@ -1,51 +1,48 @@
-<h1 align="left">Olá, Bem Vindo.</h1>
+## Olá, sou Lucas pita Santos. Seja bem-vindo(a)! 😄
 
-###
-
-<h2 align="left">Sobre mim:</h2>
-
-###
-
-<p align="left">Me chamo Lucas Pita Santos, Atualmente cursando Análise e desenvolvimento de sistemas, durante esse período de estudos voltei meu foco para área de dados, focado em transformar dados em insights acionáveis e apoiar decisões estratégicas.<br>A Minha principal expertise está na criação de processos para unificar bases de dados de diferentes fontes e formatos, garantindo consistência e eficiência no tratamento e análise dos dados, no desenvolvimento de dashboards interativos utilizando Power Bl e na automação de processos com VBA, SQL, Python para análise de dados e automação de máquina.</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Emblem.png" height="40" alt="excel logo" />
-  <img src="https://iaccountancy.org/wp-content/uploads/2020/09/power-bi-1-logo.jpg" height="40" alt= "Powebi logo" />
-</div>
-
-###
-
-<div align="left">
-  <a href="=https://www.linkedin.com/in/lucas-pitasantos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-
-  <a href="https://discord.com/users/lucas7661" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-
-  <a href="lucaspita2712@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-</div>
-
-
-###
-
+📊 Analista de Dados <br> 👩‍💻 Análise e Desenvolvimento de Sistemas <br> 🛠️ Aprofundando meus estudos em Análise e ciência de dados <br> 💡 Gosto de programar em Python <br> 🎮 Amo jogar com os amigos, ir ao cinema e viajar
+ 
+</p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasPsantos7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasPsantos7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://github.com/thatynapolitano">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thatynapolitano&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatynapolitano&layout=compact&langs_count=16&theme=cobalt"/>
+</div>
+   
+<br>
+    
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandaslogo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" width="52" alt="apachesparklogo"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  /> !-->
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github icon" width="65" height="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"/>
+ 
+</div>
+  
+ ##
+   
+<div align="center">
+    <a href="https://www.linkedin.com/in/lucas-pitasantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto: lucaspita2712@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
 </div>
 
+<div> 
+ <!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thatynapolitano/thatynapolitano/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thatynapolitano/thatynapolitano/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thatynapolitano/thatynapolitano/output/github-contribution-grid-snake-dark.svg">
+</picture>
+<br><br> !-->
+</div>    
+
+
+<div> 
+ 
+   <!-- [Snake animation](https://github.com/thatynapolitano/thatynapolitano/blob/output/github-contribution-grid-snake.svg) !-->
+    
+</div>
 
