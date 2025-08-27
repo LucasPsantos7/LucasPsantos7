@@ -1,6 +1,8 @@
 ## Olá, sou Lucas pita Santos. Seja bem-vindo(a)! 😄
 
 📊 Analista de Dados <br> 👩‍💻 Análise e Desenvolvimento de Sistemas <br> 🛠️ Aprofundando meus estudos em Análise e ciência de dados <br> 💡 Gosto de programar em Python <br> 🎮 Amo jogar com os amigos, ir ao cinema e viajar
+
+Atualmente cursando Análise e desenvolvimento de sistemas, durante esse período de estudos voltei meu foco para área de dados, focado em transformar dados em insights acionáveis e apoiar decisões estratégicas.
  
 </p>
 <div align="center">
@@ -19,6 +21,8 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github icon" width="65" height="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"/>
   <img src="https://static.vecteezy.com/system/resources/previews/022/100/783/non_2x/microsoft-excel-logo-transparent-free-png.png" height="40" width="52" alt="git logo"/>
+  <img src="https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1646644666/hevo-learn/Power-BI-JSON-to-Table-Thumbnail/Power-BI-JSON-to-Table-Thumbnail.png?_i=AA" height="40" width="52" alt="git logo"/>
+  <img src="https://svgbrand.com/uploads/images/webp/202311/SVG_Brand_postgresql.webp" height="40" width="52" alt="git logo"/>
  
 </div>
   
