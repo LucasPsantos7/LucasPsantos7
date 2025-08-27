@@ -18,7 +18,7 @@
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  /> !-->
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github icon" width="65" height="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"/>
-  <img src="https://www.bing.com/images/search?view=detailV2&ccid=L62teVBu&id=C1F481B407346CADFD8A1DACCC657D6F56BADFD9&thid=OIP.L62teVBu44-i5MkqBxuR3gHaD8&mediaurl=https%3a%2f%2fwww.jeveuxetredatascientist.fr%2fwp-content%2fuploads%2f2021%2f04%2fpower-bi-logo.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2fadad79506ee38fa2e4c92a071b91de%3frik%3d2d%252b6Vm99ZcysHQ%26pid%3dImgRaw%26r%3d0&exph=640&expw=1200&q=Logo+Power+BI+Fundo+Cinza&FORM=IRPRST&ck=607337C39F2073DBAB84D034A1FA99BC&selectedIndex=0&itb=0" height="40" width="52" alt="git logo"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/022/100/783/non_2x/microsoft-excel-logo-transparent-free-png.png" height="40" width="52" alt="git logo"/>
  
 </div>
   
