@@ -1,53 +1,31 @@
-## Olá, sou Lucas pita Santos. Seja bem-vindo(a)! 😄
+## 💜 Olá, meu nome é {seu nome}!
 
-📊 Analista de Dados <br> 👩‍💻 Análise e Desenvolvimento de Sistemas <br> 🛠️ Aprofundando meus estudos em Análise e ciência de dados <br> 💡 Gosto de programar em Python <br> 🎮 Amo jogar com os amigos, ir ao cinema e viajar
+Faça uma breve apresentação sobre você e a sua stack.
 
-Atualmente cursando Análise e desenvolvimento de sistemas, durante esse período de estudos voltei meu foco para área de dados, focado em transformar dados em insights acionáveis e apoiar decisões estratégicas.
- 
-</p>
-<div align="center">
-  <a href="https://github.com/LucasPsantos7">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LucasPsantos7&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPsantos7&layout=compact&langs_count=16&theme=cobalt"/>
-</div>
-   
-<br>
-    
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandaslogo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" width="52" alt="apachesparklogo"/>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  /> !-->
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github icon" width="65" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"/>
-  <img src="https://static.vecteezy.com/system/resources/previews/022/100/783/non_2x/microsoft-excel-logo-transparent-free-png.png" height="40" width="52" alt="git logo"/>
-  <img src="https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1646644666/hevo-learn/Power-BI-JSON-to-Table-Thumbnail/Power-BI-JSON-to-Table-Thumbnail.png?_i=AA" height="40" width="52" alt="git logo"/>
-  <img src="https://svgbrand.com/uploads/images/webp/202311/SVG_Brand_postgresql.webp" height="40" width="52" alt="git logo"/>
- 
-</div>
-  
- ##
-   
-<div align="center">
-    <a href="https://www.linkedin.com/in/lucas-pitasantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto: lucaspita2712@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    
-</div>
+🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
-<div> 
- <!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasPsantos7/LucasPsantos7/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasPsantos7/LucasPsantos7/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasPsantos7/LucasPsantos7/output/github-contribution-grid-snake-dark.svg">
-</picture>
-<br><br> !-->
-</div>    
+💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
+---
 
-<div> 
- 
-   <!-- [Snake animation](https://github.com/LucasPsantos7/LucasPsantos7/blob/output/github-contribution-grid-snake.svg) !-->
-    
-</div>
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
 
