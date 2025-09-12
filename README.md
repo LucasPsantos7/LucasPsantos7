@@ -32,6 +32,9 @@
 ---
 
 ## ⭐ GitHub Stats
+<br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasPsantos7_icons=true)
+<a href="https://github.com/LucasPsantos7" title="Perfil do Lucas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasPsantos7&theme=dracula&show_icons=true" />
+</a>
 
