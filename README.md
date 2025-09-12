@@ -28,7 +28,7 @@
 ---
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/lucas-pitasantos)  
+- [LinkedIn](https://www.linkedin.com/in/lucas-pitasantos)  
 - [E-mail](mailto:lucaspita2712@gmail.com)  
 
 ---
