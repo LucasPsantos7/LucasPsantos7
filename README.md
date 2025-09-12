@@ -1,40 +1,38 @@
-##  Olá, eu sou o Lucas Pita Santos
+# 👋 Olá, eu sou o Lucas Pita Santos
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas
-
-🚀 Focado em JavaScript | TypeScript | Node.js | Full Stack
-
-🎓 Atualmente estudando
-
-- Desenvolvimento Full Stack com JavaScript e TypeScript
-
-- Node.js e Express para criação de APIs
-
-- Banco de dados MongoDB e postgreSQL
-
-- HTML e CSS para front-end
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🚀 Focado em **JavaScript | TypeScript | Node.js | Full Stack**
 
 ---
 
-## 🚀 Minhas Skills
+## 🌱 Atualmente estudando
+- 📘 Desenvolvimento **Full Stack** com JavaScript e TypeScript  
+- ⚡ **Node.js** e **Express** para criação de APIs  
+- 🗄️ Banco de dados **MongoDB** e **PostgreSQL**  
+- 🌐 **HTML e CSS** para front-end  
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+---
+
+## 💻 Minhas Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+
+---
+
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/lucas-pitasantos)  
+- [E-mail](mailto:lucaspita2712@gmail.com)  
 
 ---
 
 ## ⭐ GitHub Stats
-<br/>
-
-<a href="https://github.com/LucasPsantos7" title="Perfil do Lucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasPsantos7&theme=dracula&show_icons=true" />
-</a>
+![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasPsantos7&show_icons=true&theme=radical)
 
