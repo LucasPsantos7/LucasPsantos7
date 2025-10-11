@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou o Lucas Pita Santos
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🚀 Focado em **JavaScript | TypeScript | Node.js | Full Stack**
+🚀 Focado em **JavaScript | React | TypeScript | Node.js | Full Stack**
 
 ---
 
 ## 🌱 Atualmente estudando
-- 📘 Desenvolvimento **Full Stack** com JavaScript e TypeScript  
+- 📘 Desenvolvimento **Full Stack** com JavaScript, TypeScript e React
 - ⚡ **Node.js** e **Express** para criação de APIs  
 - 🗄️ Banco de dados **MongoDB** e **PostgreSQL**  
 - 🌐 **HTML e CSS** para front-end  
