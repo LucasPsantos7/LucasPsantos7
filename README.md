@@ -29,10 +29,5 @@
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/lucas-pitasantos)  
-- [E-mail](mailto:lucaspita2712@gmail.com)  
-
----
-
-## ⭐ GitHub Stats
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasPsantos7&show_icons=true&theme=radical)
+- [E-mail](mailto:lucaspita2712@gmail.com)
 
