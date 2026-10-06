@@ -67,14 +67,5 @@ Gosto de código legível, regras de negócio bem separadas e APIs que outras pe
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasPsantos7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPsantos7&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
----
-
-<p align="center">💬 Aberto a trocar ideia sobre back-end, APIs e PHP moderno.</p>
+<p align="center">💬 Aberto a trocar ideia sobre tecnologia.</p>
 
