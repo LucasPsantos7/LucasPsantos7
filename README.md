@@ -1,24 +1,80 @@
-# 👋 Olá, eu sou o Lucas Pita Santos
-💻 Software Developer 
-🎓 Análise e Desenvolvimento de Sistemas  
-🚀 JavaScript • TypeScript • Java • SpringBoot  
-🔧 APIs REST • MongoDB • PostgreSQL
+<h1 align="center">Olá, eu sou o Lucas Pita Santos 👋</h1>
+
+<p align="center">
+  <b>Desenvolvedor Back-end Júnior</b> · PHP & Symfony · Node.js & TypeScript
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-pitasantos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="lucaspita2712@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## 💻 Minhas Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+## 🧑‍💻 Sobre mim
+
+Sou desenvolvedor back-end júnior, atuando no dia a dia com **PHP e Symfony** na construção e manutenção de APIs.
+Paralelamente, desenvolvo projetos pessoais com **Node.js e TypeScript** para aprofundar arquitetura de APIs, autenticação e modelagem de dados.
+
+Gosto de código legível, regras de negócio bem separadas e APIs que outras pessoas conseguem entender e manter.
+
+- 💼 Desenvolvedor Back-end Júnior — PHP / Symfony
+- 🎓 Análise e Desenvolvimento de Sistemas — Universidade Cruzeiro do Sul
+- 📍 Rio de Janeiro, Brasil
+- 🌱 Estudando agora: arquitetura de APIs, testes automatizados e Docker
 
 ---
 
-## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/lucas-pitasantos)  
-- [E-mail](mailto:lucaspita2712@gmail.com)
+## 💼 Experiência
+
+**Desenvolvedor Back-end Júnior**
+- Desenvolvimento e manutenção de APIs REST em **PHP com Symfony**
+
+---
+
+## 🛠️ Stack
+
+**Back-end**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+**Banco de dados & ORM**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Front-end**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasPsantos7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPsantos7&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+<p align="center">💬 Aberto a trocar ideia sobre back-end, APIs e PHP moderno.</p>
 
